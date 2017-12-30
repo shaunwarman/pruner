@@ -1,0 +1,8 @@
+{
+    "extends": "standard",
+    "rules": {
+      "brace-style": 0,
+      "semi": 0,
+      "space-before-function-paren": 0
+    }
+}
